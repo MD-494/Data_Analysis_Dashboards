@@ -1,4 +1,4 @@
-# 📊 Churn Analysis Dashboard
+<img width="1252" height="707" alt="ChurnAnalysisDashboard" src="https://github.com/user-attachments/assets/575f1239-fa9a-4135-a06c-17f5da9e4ea5" /># 📊 Churn Analysis Dashboard
 
 ## Overview
 
@@ -6,7 +6,7 @@ This dashboard provides insights into customer churn using Power BI.
 
 ## Dashboard
 
-<img width="1252" height="707" alt="image" src="https://github.com/user-attachments/assets/e453c0db-af53-4569-a966-5d03ceaf0516" />
+<img width="1252" height="707" alt="ChurnAnalysisDashboard" src="https://github.com/user-attachments/assets/1c6594f2-1238-43c1-a4dd-3353f0ba0b84" />
 
 ## Tools
 
