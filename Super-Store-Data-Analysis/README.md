@@ -32,10 +32,7 @@ The objective of this project is to transform raw sales data into meaningful vis
 
 ## 📂 Dataset
 
-* **Dataset:** [SuperStore_Sales_Dataset.csv]
-* **Format:** CSV / Excel
-* **Records:** Sales transactions containing customer, product, shipping, region, state, sales, and profit information.
-
+ [SuperStore_Sales_Dataset.csv](SuperStore_Sales_Dataset.csv)
 ---
 
 ## 📊 Dashboard Features
